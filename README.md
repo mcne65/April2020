@@ -17,3 +17,7 @@ https://learn.unity.com/
 Coursera
 
 https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/
+
+Linkedin
+
+https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success
